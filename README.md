@@ -1,5 +1,9 @@
 # Introduction-of-optimal-design
 This is my review of optimal design written in Chinese.
 
-- ## 建立數學模型
+- ## Building mathematical model
   ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p1.JPG)
+
+- ## sloving model in graphic
+  ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p2.JPG)
+  
