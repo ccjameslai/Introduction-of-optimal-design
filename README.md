@@ -23,7 +23,11 @@ This is my review of optimal design written in Chinese.
   ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p7.JPG)
   ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p8.JPG)
 
-- ## Conditions of univariable function optimization
+- ## Conditions of uni-variable function optimization
   ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p9.JPG)
   ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p10.JPG)
   ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p11.JPG)
+  
+- ## Conditions of multi-variable function optimization
+  ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p12.JPG)
+  ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p13.JPG)
