@@ -45,7 +45,9 @@ This is my review of optimal design written in Chinese.
   ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p19.JPG)
   ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p20.JPG)
   
-  
+- ## Convex set and convex function
+  ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p21.JPG)
+  ![image](https://github.com/ccjameslai/Introduction-of-optimal-design/blob/master/figure/p22.JPG)
   
   
   
